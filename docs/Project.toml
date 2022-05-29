@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MLJCompose = "610e5bd8-bc9a-4d12-93d8-58737abc6c20"
